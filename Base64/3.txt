@@ -1,0 +1,3 @@
+Encoded Text: Um9ndWVhY2Nlc3Nwb2ludA==
+
+Decoded Solution: Rogue access point

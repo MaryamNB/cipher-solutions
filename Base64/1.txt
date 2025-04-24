@@ -1,0 +1,3 @@
+Encoded text: U2lsZW5jZSBpcyBnb2xkZW4=
+
+Decoded Solution: Silence is golden

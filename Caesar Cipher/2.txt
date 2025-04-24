@@ -1,0 +1,4 @@
+Cipher text: Wkh frgh lv wkh nhb
+key: 3
+
+Solution: The code is the key

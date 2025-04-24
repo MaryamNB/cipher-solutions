@@ -1,0 +1,3 @@
+Encoded Text: Q3J5cHRvZ3JhcGh5lGlzlGV2ZXJ5d2hlcmV==
+
+Decoded Solution: Cryptography is everywhere
